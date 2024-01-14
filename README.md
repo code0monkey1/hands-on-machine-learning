@@ -9,7 +9,6 @@ This repository contains code examples, exercises, and projects related to the c
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Code Examples](#code-examples)
 - [Projects](#projects)
 
 ## Getting Started
