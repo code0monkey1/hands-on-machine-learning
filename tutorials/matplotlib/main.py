@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
 
+
 # If the plot function is given one array of data, it will use it as the coordinates on the vertical axis, and it will just use each data point's index in the array as the horizontal coordinate.
 # plt.plot([1, 2, 4, 9, 5, 3])  # x-axis is 0, 1, 2, 3, 4, 5
 # plt.show()
